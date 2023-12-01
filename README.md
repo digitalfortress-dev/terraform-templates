@@ -16,6 +16,24 @@
 Clone the repository
 ```
 git clone https://github.com/digitalfortress-dev/terraform-templates.git
+cd terraform-templates
+```
+Create and select develop workspace
+```
+terraform workspace new dev
+terraform workspace select dev
+```
+Init
+```
+terraform init
+```
+Review change
+```
+terraform plan
+```
+Apply
+```
+terraform apply
 ```
 
 ## License

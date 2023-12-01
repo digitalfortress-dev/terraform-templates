@@ -9,13 +9,13 @@
 
 ---
 
-# Git Repository Template
+# Terraform Template
 
 ## Usage
 
 Clone the repository
 ```
-git clone https://github.com/digitalfortress-dev/git-template.git
+git clone https://github.com/digitalfortress-dev/terraform-templates.git
 ```
 
 ## License
